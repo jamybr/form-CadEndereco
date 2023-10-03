@@ -1,21 +1,21 @@
 'use strict'; 
 
-const limparFormulario = (endereco) =>{
+const limparFormulario = (endereco) => {
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
     document.getElementById('estado').value = '';
 }
 
-const preencherForumulario = (endereco) =>{
+const eNumero = (numero) => /^[0-9]+$/.test(numero); 
+const cepValido = (cep) => cep.length == 8 && eNumero(cep);
+
+const preencherForumulario = (endereco) => {
     document.getElementById('rua').value = endereco.logradouro;
     document.getElementById('bairro').value = endereco.bairro;
     document.getElementById('cidade').value = endereco.localidade;
     document.getElementById('estado').value = endereco.uf;
 }
-
-const eNumero = (numero) => /^[0-9]+$/.test(numero); 
-const cepValido = (cep) => cep.length == 8 && eNumero(cep);
 
 const pesquisarCep = async() => {
     limparFormulario();
