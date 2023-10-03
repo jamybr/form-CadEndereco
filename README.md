@@ -18,4 +18,4 @@
  ## Colaboradores
 
  ## Autores
- * Esse projeto foi criado por [Jasminy Matias e Silva] (https://github.com/jamybr)
+ * Esse projeto foi criado por [Jasminy Matias e Silva](https://github.com/jamybr)
