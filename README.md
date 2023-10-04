@@ -17,6 +17,8 @@
 
  ## 📝Descrição
 
+ * O aplicativo web CadEndereco permite aos usuários inserir e recuperar facilmente informações de endereço por meio de uma interface. Ele aproveita a ViaCEP API para obter detalhes de endereço precisos com base no CEP (código postal) fornecido.
+
  ## 👾Recursos
 
  ## 🔛Funcionalidades
