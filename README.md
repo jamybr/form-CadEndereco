@@ -2,6 +2,8 @@
 
 [Formulário de Cadastro de Endereço]()  
 [Descrição](#descri%C3%A7%C3%A3o)  
+[Recursos]()  
+[Funcionalidades]()  
 [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Colaboradores](#colaboradores)  
@@ -9,13 +11,17 @@
 
 # 📌Formulário de Cadastro de Endereço
 
- ## Descrição
+ ## 📝Descrição
 
- ## Tecnologias Utilizadas
+ ## 👾Recursos
 
- ## Fontes consultadas
+ ## 🔛Funcionalidades
 
- ## Colaboradores
+ ## ⌨️Tecnologias Utilizadas
 
- ## Autores
+ ## 📑Fontes consultadas
+
+ ## 🤝🏻🤝🏻Colaboradores
+
+ ## ✒️Autores
  * Esse projeto foi criado por [Jasminy Matias e Silva](https://github.com/jamybr)
