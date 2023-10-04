@@ -19,6 +19,12 @@
 
  ## ⌨️Tecnologias Utilizadas
 
+ * Css  
+ * HTML  
+ * GitHub  
+ * Javacript  
+ * BootStrap  
+
  ## 📑Fontes consultadas
 
  ## 🤝🏻🤝🏻Colaboradores
