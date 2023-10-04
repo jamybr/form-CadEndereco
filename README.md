@@ -23,5 +23,8 @@
 
  ## 🤝🏻🤝🏻Colaboradores
 
+ * [Professor Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+ * [Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+
  ## ✒️Autores
  * Esse projeto foi criado por [Jasminy Matias e Silva](https://github.com/jamybr)
