@@ -28,7 +28,7 @@
 
  ## 🔛Funcionalidades  
 
- # 1. Cadastro de Endereço:
+  1. Cadastro de Endereço:
     * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
     * Rua    
     * Número  
