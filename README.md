@@ -58,7 +58,7 @@
  * HTML  
  * GitHub  
  * Javacript  
- * BootStrap  
+ * BootStrap (versão 5.3.1)  
 
  ## 📑Fontes consultadas
 
@@ -66,6 +66,7 @@
 
  * [Professor Leonardo Rocha](https://github.com/LeonardoRochaMarista)
  * [Leonardo Rocha](https://github.com/LeonardoRochaMarista)
+ * [Witória Beatriz](https://github.com/Witoriabeatriz)
 
  ## ✒️Autores
  * Esse projeto foi criado por [Jasminy Matias e Silva](https://github.com/jamybr)
