@@ -87,8 +87,58 @@
     }else{
         alert('CEP incorreto!');
     } 
-    }
+    }  
 
+ ## Funções em Index.html  
+
+    <body>
+    <form method="get" action=".">
+      <div class="container">
+      <h1>Cadastro de Endereço</h1>        
+        </div>
+    <div class="col-md-2">
+      <label for="inputZip" class="form-label">CEP</label>
+      <input type="text" class="form-control" id="cep">
+      </div><br><br>
+      <div class="row">
+      <div class="form-group col-md-4">
+          <label for="rua">Rua</label>
+          <input type="text" class="form-control" id="rua" placeholder="Rua dos Bestas">
+      </div>
+      <div class="form-group col-md-2">
+        <label for="inputAddress">N.º</label>
+        <input type="text" class="form-control" id="numero" placeholder="nº 0">
+    </div>
+    <div class="form-group col-md-4">
+      <label for="inputAddress2">Bairro</label>
+      <input type="text" class="form-control" id="bairro">
+      </div>
+    </div><br><br>
+    <div class="row">
+      <div class="form-group col-md-3">
+          <label for="complemento">Complemento</label>
+          <input type="text" class="form-control" id="complemento" placeholder="Apartamento, hotel, casa, etc.">
+      </div>
+      <div class="form-group col-md-4">
+          <label for="cidade">Cidade</label>
+          <input type="text" class="form-control" id="cidade">
+      </div>
+      <div class="form-group col-md-3">
+          <label for="estado">Estado</label>
+          <input type="text" class="form-control" id="estado">
+      </div>
+    </div>
+    <br><br>
+      <button class="btn btn-primary" onclick="">Entrar</button>
+    </div>
+    </form>
+    
+    <script type="text/javascript" src="./controller.js"></script>
+    </body>
+    
+    </html>
+
+ 
  ## ⌨️Tecnologias Utilizadas
 
  * Css  
