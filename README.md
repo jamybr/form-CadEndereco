@@ -6,6 +6,8 @@
 [Funcionalidades](#funcionalidades)    
 [Composição do Projeto](#%EF%B8%8Fcomposi%C3%A7%C3%A3o-do-projeto)   
 [Funções em Javascript](#fun%C3%A7%C3%B5es-em-javascript)  
+[Funções em Index.html](#fun%C3%A7%C3%B5es-em-indexhtml)  
+[Funções em Javascript](#fun%C3%A7%C3%B5es-em-javascript)  
 [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Colaboradores](#colaboradores)  
