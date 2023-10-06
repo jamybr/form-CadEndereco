@@ -71,6 +71,10 @@
     document.getElementById('cidade').value = endereco.localidade;
     document.getElementById('estado').value = endereco.uf;
 
+    const pesquisarCep = async() => {
+    limparFormulario();
+    const url = `https://viacep.com.br/ws/${cep.value}/json/`;
+
  ## ⌨️Tecnologias Utilizadas
 
  * Css  
