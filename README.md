@@ -29,14 +29,14 @@
  ## 🔛Funcionalidades  
 
   ### 1. Cadastro de Endereço:  
-    * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
+  * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
    
-    * Rua    
-    * Número  
-    * Bairro  
-    * Complemento (opcional)  
-    * Cidade  
-    * Estado  
+  * Rua    
+  * Número  
+  * Bairro  
+  * Complemento (opcional)  
+  * Cidade  
+  * Estado  
 
   ### 2. Consulta Automática de CEP:  
 
