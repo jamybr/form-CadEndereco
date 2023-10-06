@@ -2,8 +2,9 @@
 
 [Formulário de Cadastro de Endereço]()  
 [Descrição](#descri%C3%A7%C3%A3o)  
-[Recursos](#recursos)  
+[Instruções de Uso]()  
 [Funcionalidades](#funcionalidades)  
+[Composição do Projeto]()
 [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Colaboradores](#colaboradores)  
@@ -17,11 +18,30 @@
 
  ## 📝Descrição
 
- * O aplicativo web CadEndereco permite aos usuários inserir e recuperar facilmente informações de endereço por meio de uma interface. Ele aproveita a ViaCEP API para obter detalhes de endereço precisos com base no CEP (código postal) fornecido.
+ * Este é um projeto simples de cadastro de endereço que permite consultar facilmente informações de domicílio por meio de uma interface as informações de endereço a partir de um CEP (código postal) fornecido.
 
- ## 👾Recursos
+ ## 👾Instruções de Uso
 
- ## 🔛Funcionalidades
+ * Abra o arquivo 'index.html' em um navegador web;
+ * Preencha os campos do formulário com as informações de endereço desejadas;
+ * Clique no botão "Entrar" para enviar o formulário.
+
+ ## 🔛Funcionalidades  
+
+ # 1. Cadastro de Endereço:
+    * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
+    * Rua    
+    * Número  
+    * Bairro  
+    * Complemento (opcional)  
+    * Cidade  
+    * Estado  
+
+ ## ⚙️Composição do Projeto  
+
+ * 'index.html' : Contém a estrutura HTML do formulário de cadastro de endereço.  
+ * 'main.css' : Arquivo de estilo para personalizações adicionais.  
+ * 'controller.js' : Script JavaScript para lidar com a consulta de CEP e preenchimento automático dos campos de endereço.  
 
  ## ⌨️Tecnologias Utilizadas
 
