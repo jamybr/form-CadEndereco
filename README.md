@@ -28,7 +28,7 @@
 
  ## 🔛Funcionalidades  
 
-  1. Cadastro de Endereço:  
+  ### 1. Cadastro de Endereço:  
     * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
    
     * Rua    
@@ -38,11 +38,11 @@
     * Cidade  
     * Estado  
 
-  2. Consulta Automática de CEP:  
+  ### 2. Consulta Automática de CEP:  
 
     * Quando o usuário insere um CEP válido no campo correspondente, o sistema automaticamente realiza uma consulta à API ViaCEP para obter e preencher os campos de rua, bairro, cidade e estado.  
 
-  3. Estilização Responsiva:  
+  ### 3. Estilização Responsiva:  
 
     * O projeto possui estilos CSS que garantem uma boa aparência e usabilidade tanto em dispositivos desktop quanto em dispositivos móveis.  
 
