@@ -52,6 +52,16 @@
  * 'main.css' : Arquivo de estilo para personalizações adicionais.  
  * 'controller.js' : Script JavaScript para lidar com a consulta de CEP e preenchimento automático dos campos de endereço.  
 
+## Funções em Javascript
+
+   const limparFormulario = (endereco) => {
+    document.getElementById('rua').value = '';
+    document.getElementById('bairro').value = '';
+    document.getElementById('cidade').value = '';
+    document.getElementById('estado').value = '';
+}
+
+
  ## ⌨️Tecnologias Utilizadas
 
  * Css  
