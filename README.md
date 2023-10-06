@@ -138,8 +138,16 @@
     <script type="text/javascript" src="./controller.js"></script>
     </body>
     
-    </html>
+    </html>  
 
+ ## Funcões em main.CSS  
+
+    #body {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    }
  
  ## ⌨️Tecnologias Utilizadas
 
