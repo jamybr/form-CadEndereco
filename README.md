@@ -5,6 +5,7 @@
 [Instruções de Uso](#instru%C3%A7%C3%B5es-de-uso)  
 [Funcionalidades](#funcionalidades)    
 [Composição do Projeto](#%EF%B8%8Fcomposi%C3%A7%C3%A3o-do-projeto)   
+[Funções em Javascript]()  
 [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Colaboradores](#colaboradores)  
@@ -48,9 +49,9 @@
 
  ## ⚙️Composição do Projeto  
 
- * 'index.html' : Contém a estrutura HTML do formulário de cadastro de endereço.  
- * 'main.css' : Arquivo de estilo para personalizações adicionais.  
- * 'controller.js' : Script JavaScript para lidar com a consulta de CEP e preenchimento automático dos campos de endereço.  
+ * `index.html` : Contém a estrutura HTML do formulário de cadastro de endereço.  
+ * `main.css` : Arquivo de estilo para personalizações adicionais.  
+ * `controller.js` : Script JavaScript para lidar com a consulta de CEP e preenchimento automático dos campos de endereço.  
 
 ## Funções em Javascript
 
@@ -59,8 +60,13 @@
      document.getElementById('bairro').value = '';
      document.getElementById('cidade').value = '';
      document.getElementById('estado').value = '';
- }
+     }
 
+    const preencherForumulario = (endereco) => {
+    document.getElementById('rua').value = endereco.logradouro;
+    document.getElementById('bairro').value = endereco.bairro;
+    document.getElementById('cidade').value = endereco.localidade;
+    document.getElementById('estado').value = endereco.uf;
 
  ## ⌨️Tecnologias Utilizadas
 
