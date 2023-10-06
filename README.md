@@ -157,7 +157,10 @@
  * Javacript  
  * BootStrap (versão 5.3.1)  
 
- ## 📑Fontes consultadas
+ ## 📑Fontes consultadas  
+
+ * Google
+ * Chat.openai
 
  ## 🤝🏻🤝🏻Colaboradores
 
