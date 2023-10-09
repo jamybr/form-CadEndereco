@@ -21,7 +21,7 @@
 
  ## 📝Descrição
 
- * Este é um projeto simples de cadastro de endereço que permite consultar facilmente informações de domicílio por meio de uma interface as informações de endereço a partir de um CEP (código postal) fornecido.
+ * Este projeto simples que utiliza a API ViaCEP para obter informações de endereço a partir do CEP (código postal) fornecido. Ele permite consultar facilmente as informações de domicílio por meio de uma interface. 
 
  ## 👾Instruções de Uso
 
